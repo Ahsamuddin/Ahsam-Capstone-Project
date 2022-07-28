@@ -1,0 +1,36 @@
+2022-07-28 06:41:40,401 [main] INFO ./src/test/resources/input/log4j.properties - ScenarioAdd and Remove a Mac book from CartStarted
+2022-07-28 06:41:52,473 [main] INFO ./src/test/resources/input/log4j.properties - user clicked on Retail website
+2022-07-28 06:41:52,603 [main] INFO ./src/test/resources/input/log4j.properties - user click on laptop and notebook tab
+2022-07-28 06:41:53,445 [main] INFO ./src/test/resources/input/log4j.properties - user click on show all laptop and notebook option
+2022-07-28 06:41:56,158 [main] INFO ./src/test/resources/input/log4j.properties - user click on macbook item
+2022-07-28 06:41:56,327 [main] INFO ./src/test/resources/input/log4j.properties - user clicked add to cart button
+2022-07-28 06:41:56,706 [main] INFO ./src/test/resources/input/log4j.properties - user should see a messageSuccess: You have added MacBook to your shopping cart!
+2022-07-28 06:41:57,471 [main] INFO ./src/test/resources/input/log4j.properties - user should see 1 item showed to the cart
+2022-07-28 06:41:58,100 [main] INFO ./src/test/resources/input/log4j.properties - user click on cart option
+2022-07-28 06:41:58,198 [main] INFO ./src/test/resources/input/log4j.properties - user click on red x button to remove the item from cart
+2022-07-28 06:41:58,257 [main] INFO ./src/test/resources/input/log4j.properties - item should be removed and cart should show 0 itmes
+2022-07-28 06:41:59,602 [main] INFO ./src/test/resources/input/log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-07-28 06:41:59,663 [main] INFO ./src/test/resources/input/log4j.properties - ScenarioProduct ComparisonStarted
+2022-07-28 06:42:03,880 [main] INFO ./src/test/resources/input/log4j.properties - user clicked on Retail website
+2022-07-28 06:42:04,073 [main] INFO ./src/test/resources/input/log4j.properties - user click on laptop and notebook tab
+2022-07-28 06:42:04,788 [main] INFO ./src/test/resources/input/log4j.properties - user click on show all laptop and notebook option
+2022-07-28 06:42:04,921 [main] INFO ./src/test/resources/input/log4j.properties - user click on product comperison icon on macbook
+2022-07-28 06:42:07,026 [main] INFO ./src/test/resources/input/log4j.properties - user click on product comperison icon on macbook
+2022-07-28 06:42:09,119 [main] INFO ./src/test/resources/input/log4j.properties - user should see a messageSuccess: You have added MacBook Air to your product comparison!
+2022-07-28 06:42:10,227 [main] INFO ./src/test/resources/input/log4j.properties - user can click on product comparison
+2022-07-28 06:42:12,309 [main] INFO ./src/test/resources/input/log4j.properties - user should see product comparison chart
+2022-07-28 06:42:13,135 [main] INFO ./src/test/resources/input/log4j.properties - Scenario Product ComparisonPASSED
+2022-07-28 06:42:13,158 [main] INFO ./src/test/resources/input/log4j.properties - ScenarioAdding an item to Wish listStarted
+2022-07-28 06:42:22,146 [main] INFO ./src/test/resources/input/log4j.properties - user clicked on Retail website
+2022-07-28 06:42:22,269 [main] INFO ./src/test/resources/input/log4j.properties - user click on laptop and notebook tab
+2022-07-28 06:42:22,656 [main] INFO ./src/test/resources/input/log4j.properties - user click on show all laptop and notebook option
+2022-07-28 06:42:22,773 [main] INFO ./src/test/resources/input/log4j.properties - user click on heart icon to add sony vaio laptop to wish list
+2022-07-28 06:42:22,946 [main] INFO ./src/test/resources/input/log4j.properties - user should see a message success you have added macbook to your shopping cart
+2022-07-28 06:42:24,544 [main] INFO ./src/test/resources/input/log4j.properties - Scenario Adding an item to Wish listPASSED
+2022-07-28 06:42:24,630 [main] INFO ./src/test/resources/input/log4j.properties - ScenarioValidate the price of MacBook Pro is 2000Started
+2022-07-28 06:42:28,070 [main] INFO ./src/test/resources/input/log4j.properties - user clicked on Retail website
+2022-07-28 06:42:28,285 [main] INFO ./src/test/resources/input/log4j.properties - user click on laptop and notebook tab
+2022-07-28 06:42:28,854 [main] INFO ./src/test/resources/input/log4j.properties - user click on show all laptop and notebook option
+2022-07-28 06:42:30,306 [main] INFO ./src/test/resources/input/log4j.properties - user click on macbook pro item
+2022-07-28 06:42:30,361 [main] INFO ./src/test/resources/input/log4j.properties - user should see ‘${double}’ price tag is present on UI 
+2022-07-28 06:42:31,784 [main] INFO ./src/test/resources/input/log4j.properties - Scenario Validate the price of MacBook Pro is 2000PASSED
